@@ -1,4 +1,5 @@
-**English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+- **默认管理地址:** 192.168.100.1
+- **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
 
