@@ -1,5 +1,5 @@
 - **默认管理地址:** 192.168.100.1  密码为空
-- 上游源码为hanwckf https://github.com/hanwckf/immortalwrt-mt798x ，每日自动检查更新、编译。基于配置模板mt7986-ax6000.config修改，只编译uboot分区固件，新增ShadowSocksR Plus+、vlmcsd和smartdns插件。
+- 上游源码为hanwckf https://github.com/hanwckf/immortalwrt-mt798x ，每日自动检查更新、编译。基于配置模板mt7986-ax6000.config修改，只编译uboot分区固件，预装ShadowSocksR Plus+、smartdns、trubeacc和vlmcsd插件。
 
 # Actions-OpenWrt
 
