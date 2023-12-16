@@ -17,4 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-src-git kenzo https://github.com/kenzok8/openwrt-packages
+sed -i '$a src-git adguardhome https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-adguardhome' feeds.conf.default
